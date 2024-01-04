@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vishal Narang. I am a dedicated developer with 6+ years of experience in JS stack development.</p>
+<p align="left">My name is Vishal Narang. I am a dedicated developer with 6+ years of experience in JS tech stack development.</p>
 
 ###
 
